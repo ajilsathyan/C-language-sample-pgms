@@ -1,0 +1,10 @@
+09:54:47 **** Incremental Build of configuration Debug for project BiggestAmong3NumbersUsing IF ELSE ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\BiggestAmong3NumbersUsing IF ELSE.o" "..\\src\\BiggestAmong3NumbersUsing IF ELSE.c" 
+..\src\BiggestAmong3NumbersUsing IF ELSE.c: In function 'main':
+..\src\BiggestAmong3NumbersUsing IF ELSE.c:16:12: error: expected identifier before '(' token
+..\src\BiggestAmong3NumbersUsing IF ELSE.c:21:2: error: 'else' without a previous 'if'
+..\src\BiggestAmong3NumbersUsing IF ELSE.c:15:16: warning: unused variable 'c'
+
+09:54:47 Build Failed. 2 errors, 1 warnings. (took 205ms)
+

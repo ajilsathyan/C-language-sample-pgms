@@ -1,0 +1,7 @@
+11:14:35 **** Rebuild of configuration Debug for project Full Mathematics On ARRAYS ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Full Mathematics On ARRAYS.o" "..\\src\\Full Mathematics On ARRAYS.c" 
+gcc -o "Full Mathematics On ARRAYS.exe" "src\\Full Mathematics On ARRAYS.o" 
+
+11:14:36 Build Finished. 0 errors, 0 warnings. (took 532ms)
+

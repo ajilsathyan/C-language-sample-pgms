@@ -1,0 +1,9 @@
+20:01:33 **** Incremental Build of configuration Debug for project Swapping2No;UsingMul&Div ****
+Info: Internal Builder is used for build
+gcc -o Swapping2No;UsingMul&Div.exe "src\\Swapping2No;UsingMul&Div.o" 
+src\Swapping2No;UsingMul&Div.o: In function `main':
+C:\Users\Office\eclipse-workspace\Swapping2No;UsingMul&Div\Debug/../src/Swapping2No;UsingMul&Div.c:19: undefined reference to `print'
+collect2: ld returned 1 exit status
+
+20:01:33 Build Failed. 1 errors, 0 warnings. (took 165ms)
+

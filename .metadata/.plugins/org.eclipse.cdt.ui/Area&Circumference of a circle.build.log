@@ -1,0 +1,9 @@
+12:40:10 **** Incremental Build of configuration Debug for project Area&Circumference of a circle ****
+Info: Internal Builder is used for build
+gcc -o "Area&Circumference of a circle.exe" "src\\Area&Circumference of a circle.o" 
+src\Area&Circumference of a circle.o: In function `main':
+C:\Users\Office\eclipse-workspace\Area&Circumference of a circle\Debug/../src/Area&Circumference of a circle.c:18: undefined reference to `stebuf'
+collect2: ld returned 1 exit status
+
+12:40:11 Build Failed. 1 errors, 0 warnings. (took 172ms)
+

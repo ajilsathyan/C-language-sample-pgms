@@ -1,0 +1,9 @@
+12:59:14 **** Incremental Build of configuration Debug for project ARRAaaY ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ARRAaaY.o" "..\\src\\ARRAaaY.c" 
+gcc -o ARRAaaY.exe "src\\ARRAaaY.o" 
+c:/mingw-w64-bin_x86_64-mingw_20111101_sezero/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.5.4/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file ARRAaaY.exe: Permission denied
+collect2: ld returned 1 exit status
+
+12:59:14 Build Failed. 1 errors, 0 warnings. (took 386ms)
+

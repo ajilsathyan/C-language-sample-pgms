@@ -1,0 +1,7 @@
+11:14:42 **** Rebuild of configuration Debug for project Swapping2BumUsing(BITWISE) ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Swapping2BumUsing(BITWISE).o" "..\\src\\Swapping2BumUsing(BITWISE).c" 
+gcc -o Swapping2BumUsing(BITWISE).exe "src\\Swapping2BumUsing(BITWISE).o" 
+
+11:14:43 Build Finished. 0 errors, 0 warnings. (took 379ms)
+

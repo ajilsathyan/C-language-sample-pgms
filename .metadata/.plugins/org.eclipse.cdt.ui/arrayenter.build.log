@@ -1,0 +1,9 @@
+14:07:14 **** Incremental Build of configuration Debug for project arrayenter ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\arrayenter.o" "..\\src\\arrayenter.c" 
+gcc -o arrayenter.exe "src\\arrayenter.o" 
+c:/mingw-w64-bin_x86_64-mingw_20111101_sezero/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.5.4/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file arrayenter.exe: Permission denied
+collect2: ld returned 1 exit status
+
+14:07:15 Build Failed. 1 errors, 0 warnings. (took 380ms)
+

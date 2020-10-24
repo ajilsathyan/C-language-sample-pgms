@@ -1,0 +1,7 @@
+11:14:32 **** Rebuild of configuration Debug for project BasicMathematicsOperationsUsing IF ELSE IF ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\BasicMathematicsOperationsUsing IF ELSE IF.o" "..\\src\\BasicMathematicsOperationsUsing IF ELSE IF.c" 
+gcc -o "BasicMathematicsOperationsUsing IF ELSE IF.exe" "src\\BasicMathematicsOperationsUsing IF ELSE IF.o" 
+
+11:14:33 Build Finished. 0 errors, 0 warnings. (took 686ms)
+

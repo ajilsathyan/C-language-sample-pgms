@@ -1,0 +1,9 @@
+11:32:46 **** Incremental Build of configuration Debug for project SAMPLE2 ****
+make all 
+Cannot run program "make": Launching failed
+
+Error: Program "make" not found in PATH
+PATH=[C:/Program Files/Java/jdk-14.0.2/bin/server;C:/Program Files/Java/jdk-14.0.2/bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\mingw-w64-bin_x86_64-mingw_20111101_sezero\mingw64\bin;C:\Program Files\Java\jdk-14.0.2\bin;C:\Program Files\Java\jdk-14.0.2\bin;C:\Users\Office\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Bandizip\;C:\Program Files\Java\jdk-14.0.2\bin;;C:\Program Files\eclipse-cpp-2020-06-R-win32-x86_64\eclipse]
+
+11:32:46 Build Failed. 1 errors, 0 warnings. (took 95ms)
+

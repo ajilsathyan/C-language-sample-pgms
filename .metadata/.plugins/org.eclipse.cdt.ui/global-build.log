@@ -1,0 +1,33 @@
+11:22:19 **** Rebuild of configuration Debug for project Name of Me ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Name of Me.o" "..\\src\\Name of Me.c" 
+gcc -o "Name of Me.exe" "src\\Name of Me.o" 
+11:22:38 **** Incremental Build of configuration Debug for project Name of Me ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Name of Me.o" "..\\src\\Name of Me.c" 
+gcc -o "Name of Me.exe" "src\\Name of Me.o" 
+11:24:28 **** Incremental Build of configuration Debug for project Name of Me ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Name of Me.o" "..\\src\\Name of Me.c" 
+gcc -o "Name of Me.exe" "src\\Name of Me.o" 
+Info: Nothing to build for Name of Me
+11:31:29 **** Incremental Build of configuration Debug for project Name of Me ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Name of Me.o" "..\\src\\Name of Me.c" 
+..\src\Name of Me.c:14:2: warning: return type defaults to 'int'
+gcc -o "Name of Me.exe" "src\\Name of Me.o" 
+11:31:37 **** Incremental Build of configuration Debug for project Name of Me ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Name of Me.o" "..\\src\\Name of Me.c" 
+gcc -o "Name of Me.exe" "src\\Name of Me.o" 
+11:31:56 **** Incremental Build of configuration Debug for project Name of Me ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Name of Me.o" "..\\src\\Name of Me.c" 
+..\src\Name of Me.c:14:2: warning: return type defaults to 'int'
+..\src\Name of Me.c: In function 'main':
+..\src\Name of Me.c:17:1: warning: control reaches end of non-void function
+gcc -o "Name of Me.exe" "src\\Name of Me.o" 
+11:32:25 **** Incremental Build of configuration Debug for project Name of Me ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Name of Me.o" "..\\src\\Name of Me.c" 
+gcc -o "Name of Me.exe" "src\\Name of Me.o" 

@@ -1,0 +1,10 @@
+20:47:52 **** Incremental Build of configuration Debug for project LargerOrSmaller Using IF Else ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\LargerOrSmaller Using IF Else.o" "..\\src\\LargerOrSmaller Using IF Else.c" 
+..\src\LargerOrSmaller Using IF Else.c: In function 'main':
+..\src\LargerOrSmaller Using IF Else.c:20:3: warning: too few arguments for format
+..\src\LargerOrSmaller Using IF Else.c:23:3: warning: zero-length ms_printf format string
+..\src\LargerOrSmaller Using IF Else.c:24:2: error: expected ';' before '}' token
+
+20:47:52 Build Failed. 1 errors, 2 warnings. (took 194ms)
+

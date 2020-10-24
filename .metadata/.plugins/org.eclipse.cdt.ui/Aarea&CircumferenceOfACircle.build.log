@@ -1,0 +1,7 @@
+11:14:28 **** Rebuild of configuration Debug for project Aarea&CircumferenceOfACircle ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Aarea&CircumferenceOfACircle.o" "..\\src\\Aarea&CircumferenceOfACircle.c" 
+gcc -o Aarea&CircumferenceOfACircle.exe "src\\Aarea&CircumferenceOfACircle.o" 
+
+11:14:29 Build Finished. 0 errors, 0 warnings. (took 1s.9ms)
+

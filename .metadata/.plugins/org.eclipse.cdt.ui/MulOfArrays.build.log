@@ -1,0 +1,8 @@
+19:23:22 **** Incremental Build of configuration Debug for project MulOfArrays ****
+Info: Internal Builder is used for build
+gcc -o MulOfArrays.exe "src\\MulOfArrays.o" 
+c:/mingw-w64-bin_x86_64-mingw_20111101_sezero/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.5.4/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file MulOfArrays.exe: Permission denied
+collect2: ld returned 1 exit status
+
+19:23:22 Build Failed. 1 errors, 0 warnings. (took 176ms)
+

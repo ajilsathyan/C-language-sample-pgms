@@ -1,0 +1,11 @@
+11:39:20 **** Incremental Build of configuration Debug for project FUNTIONwithOutARG WithOut Return Value ****
+Info: Internal Builder is used for build
+gcc -o "FUNTIONwithOutARG WithOut Return Value.exe" "src\\FUNTIONwithOutARG WithOut Return Value.o" 
+src\FUNTIONwithOutARG WithOut Return Value.o: In function `main':
+C:\Users\Office\eclipse-workspace\FUNTIONwithOutARG WithOut Return Value\Debug/../src/FUNTIONwithOutARG WithOut Return Value.c:20: undefined reference to `sum'
+C:\Users\Office\eclipse-workspace\FUNTIONwithOutARG WithOut Return Value\Debug/../src/FUNTIONwithOutARG WithOut Return Value.c:21: undefined reference to `mul'
+C:\Users\Office\eclipse-workspace\FUNTIONwithOutARG WithOut Return Value\Debug/../src/FUNTIONwithOutARG WithOut Return Value.c:22: undefined reference to `sub'
+collect2: ld returned 1 exit status
+
+11:39:21 Build Failed. 3 errors, 0 warnings. (took 170ms)
+

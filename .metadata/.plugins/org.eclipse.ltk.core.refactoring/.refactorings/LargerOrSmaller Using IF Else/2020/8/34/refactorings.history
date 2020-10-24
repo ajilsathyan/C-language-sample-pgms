@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;LargerOrSmaller Using IF Else/src/LargerOrBigger Using IF Else.c&apos; to &apos;LargerOrSmaller Using IF Else.c&apos;" description="Rename resource &apos;LargerOrBigger Using IF Else.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/LargerOrBigger Using IF Else.c" name="LargerOrSmaller Using IF Else.c" stamp="1598022870398" updateReferences="true"/>
+</session>
